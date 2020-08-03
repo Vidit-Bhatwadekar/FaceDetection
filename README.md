@@ -3,7 +3,7 @@
 
 I Used Pre-trained OpenCV CascadeClassifier to detect Faces, Eyes etc. Can detect via webcam or through jpgs.
 
-![Alt Text](https://imgur.com/a/aFyo3J3.gif)
+![4a949q](https://user-images.githubusercontent.com/61810502/89146295-d8a0b980-d585-11ea-8870-3d0c7e7913c6.gif)
 
 Dependencies:
 * [OpenCV](https://opencv.org/)
