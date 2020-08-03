@@ -14,7 +14,7 @@ elif  inp == 'Right Eye':
 else:
     raise Exception('Invalid input')
 
-face_cascade = cv2.CascadeClassifier(model)
+face_cascade = cv2.CascadeClassifier('Model/' + model)
 capture = cv2.VideoCapture(0)
 
 while True:
