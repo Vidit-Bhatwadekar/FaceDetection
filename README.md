@@ -2,10 +2,7 @@
 # FaceDetection
 
 I Used Pre-trained OpenCV CascadeClassifier to detect Faces, Eyes etc. Can detect via webcam or through jpgs.
-
-![Alt Text](https://imgur.com/a/lbTt7SS)
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Y1Nyq1R" data-context="false" ><a href="//imgur.com/a/Y1Nyq1R"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Alt Text](file:///Users/vidit/Downloads/4a949q.gif)
 
 Dependencies:
 * [OpenCV](https://opencv.org/)
