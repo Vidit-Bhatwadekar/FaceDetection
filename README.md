@@ -12,4 +12,11 @@ You can install OpenCV using pip:
 pip install opencv-python
 ```
 
-To run
+To run Webcam detector:
+* Navigate to inside the repo
+* Run WebcamFaceDetection.py by:
+
+```bash
+python WebcamFaceDetection.py
+```
+* Type either 'Face', 'Eyes', 'Left Eye' or 'Right Eye' when prompted for a 'Detection'
