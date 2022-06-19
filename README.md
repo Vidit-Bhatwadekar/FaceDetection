@@ -40,4 +40,5 @@ python PhotoFaceDetection.py
 ### Potential Next Steps
 
 - To Deploy this as a webApp
+- Bundle all dependencies etc. using Docker container
 
