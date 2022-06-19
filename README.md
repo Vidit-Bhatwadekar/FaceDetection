@@ -36,3 +36,8 @@ To run Webcam detector:
 ```bash
 python PhotoFaceDetection.py
 ```
+
+### Potential Next Steps
+
+- To Deploy this as a webApp
+
